@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hi 
 hi change from repo
-=======
-Hi from local 
->>>>>>> feature1
+
